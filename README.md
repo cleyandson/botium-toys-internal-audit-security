@@ -71,9 +71,9 @@ To resolve the identified vulnerabilities, i developed an action plan focused on
 
 ### ➤ Project Artifacts
 The reference documents that served as the basis for this audit are available at the links below:
-* [Scope and Risk Report](https://github.com/cleyandson/botium-toys-security-audit/blob/main/Documents/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)
-* [Controls Categories](https://github.com/cleyandson/botium-toys-security-audit/blob/main/Documents/Control%20categories.pdf)
-* [Controls and Compliance Checklist (answered by me)](https://github.com/cleyandson/botium-toys-security-audit/blob/main/Documents/Controls%20and%20compliance%20checklist%20-%20answered.pdf)
+* [Scope and Risk Report](https://github.com/cleyandson/botium-toys-internal-audit-security/blob/main/Documents/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)
+* [Controls Categories](https://github.com/cleyandson/botium-toys-internal-audit-security/blob/main/Documents/Control%20categories.pdf)
+* [Controls and Compliance Checklist (answered by me)](https://github.com/cleyandson/botium-toys-internal-audit-security/blob/main/Documents/Controls%20and%20compliance%20checklist%20-%20answered.pdf)
 
 
 
