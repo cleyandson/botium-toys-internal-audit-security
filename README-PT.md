@@ -18,6 +18,8 @@ A Botium Toys, uma empresa de brinquedos com presença física e online, apresen
 ### ➤ O Desafio
 A Botium Toys, uma empresa em crescimento com operações de e-commerce, enfrentava um risco de segurança classificado como "Alto" devido à falta de controles essenciais. A missão era clara: diagnosticar as vulnerabilidades, avaliar a conformidade com padrões globais e criar um plano de ação estratégico para proteger os ativos da empresa e os dados de seus clientes.
 
+---
+
 ### ➤ Minha Abordagem e Análise
 Para resolver este desafio, segui uma metodologia estruturada em três fases:
 1. **Diagnóstico de Controles:** Realizei uma avaliação completa dos controles de segurança atuais da empresa, comparando-os com as melhores práticas do setor.
