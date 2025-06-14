@@ -1,4 +1,7 @@
 # Análise e Auditoria de Segurança Interna - Botium Toys
+<p align="right">
+  <a href="./README.md">Read in English 🇺🇸</a>
+</p>
 
 Projeto de portfólio desenvolvido como parte do <a href="https://www.coursera.org/google-certificates/cybersecurity-certificate">Certificado Profissional de Segurança Cibernética do Google</a>
 
