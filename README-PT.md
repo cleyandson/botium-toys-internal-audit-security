@@ -70,7 +70,7 @@ Para resolver as vulnerabilidades identificadas, desenvolvi um plano de ação f
 
 ### ➤ Artefatos do Projeto
 Os documentos de referência que serviram de base para esta auditoria estão disponíveis nos links abaixo:
-* [Relatório de Escopo e Risco]([https://github.com/cleyandson/botium-toys-security-audit/blob/main/Documents/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf](https://github.com/cleyandson/botium-toys-internal-audit-security/blob/main/Documents/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf))
+* [Relatório de Escopo e Risco]([[https://github.com/cleyandson/botium-toys-security-audit/blob/main/Documents/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf](https://github.com/cleyandson/botium-toys-internal-audit-security/blob/main/Documents/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)](https://github.com/cleyandson/botium-toys-internal-audit-security/blob/5d82f1434e4ad15f9a10cdbf072d7d9e8a619807/Documents/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf))
 * [Categorias de Controles]([https://github.com/cleyandson/botium-toys-security-audit/blob/main/Documents/Control%20categories.pdf](https://github.com/cleyandson/botium-toys-internal-audit-security/blob/main/Documents/Control%20categories.pdf))
 * [Checklist de Controles e Conformidade (preenchido por mim)]([https://github.com/cleyandson/botium-toys-security-audit/blob/main/Documents/Controls%20and%20compliance%20checklist%20-%20answered.pdf](https://github.com/cleyandson/botium-toys-internal-audit-security/blob/main/Documents/Controls%20and%20compliance%20checklist%20-%20answered.pdf))
 
